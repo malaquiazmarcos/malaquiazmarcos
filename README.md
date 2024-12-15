@@ -1,10 +1,5 @@
 ## Hi there 👋
 
-<!--
-**malaquiazmarcos/malaquiazmarcos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 <p style="display: inline-block;" align="center">
   <kbd>
     <kbd>Front-end</kbd>
