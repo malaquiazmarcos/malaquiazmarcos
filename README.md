@@ -1,5 +1,5 @@
 <img src="https://github.com/RaviSolanki27/RaviSolanki27/raw/master/banner.png" style="height: 100% , width:100%">
-<h1 align="center">Sobre mi<a>.</a></h1>
+<h1 align="center">Sobre mi<a href="">.</a></h1>
 
 <h4 align="center">Actualmente soy estudiante autodidacta de programación | Técnico en equipos e instalaciones electromecánicas | Estudiante de Ingeniería Civil | Buen manejo de matemáticas y estadísticas.
 
@@ -74,17 +74,8 @@ Mi enfoque principal es el desarrollo web backend, donde aplico mis conocimiento
 <a href="https://www.youtube.com/channel/UCpBGxQbi-wahJ7wRaG80E6w" target="blank">
 <img src="https://img.icons8.com/color/48/000000/youtube-play.png" style="height: 3rem"/>
 </a>
-
 </div>
 
----
-<h6 align="center">Made with ❤️ by Me (probably)</h6>
-
----
-
-
-Credit: [RaviSolanki27](https://github.com/RaviSolanki27)
-Last Edited on: 06/02/2022
 
 
 
