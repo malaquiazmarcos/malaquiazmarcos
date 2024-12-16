@@ -1,6 +1,13 @@
 <img src="https://github.com/RaviSolanki27/RaviSolanki27/raw/master/banner.png" style="height: 100% , width:100%">
-<h1 align="center">Hi 👋, I'm Raviraj Solanki</h1>
-<h3 align="center">I'm an Engineer and a 22-year old technical enthusiast who does web development, Blogging and Designing. Passionate to contribute open-source projects and create cool content.</h3>
+<h1 align="center">Sobre mi<span class="punto-celeste">.</span></h1>
+<style>
+  .punto-celeste {
+    color: #00CFFF;
+  }
+</style>
+<h4 align="center">Actualmente soy estudiante autodidacta de programación | Técnico en equipos e instalaciones electromecánicas | Estudiante de Ingeniería Civil | Buen manejo de matemáticas y estadísticas.
+
+Mi enfoque principal es el desarrollo web backend, donde aplico mis conocimientos en Python, Flask, Django, bases de datos MySQL y gestión de APIs. También tengo experiencia en el uso de herramientas como Git y GitHub, y estoy familiarizado con HTML, CSS y Bootstrap para el diseño de Interfaces. Además, utilizo AWS, para la implementación y administración de servidores y bases de datos en la nube.</h3>
 
 ---
 
@@ -31,18 +38,6 @@
 </p>
 
 ---
-
-<h1 align="center">STATS</h1>
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=RaviSolanki27" alt="ravisolanki" /> </p>
-
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ravisolanki27&theme=gotham&show_icons=true" alt="ravisolanki" />
-
-<img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=ravisolanki27&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="ravisolanki" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravisolanki27&layout=default&theme=gotham&hide=html&hide_border=true&card_width=330" alt="ravisolanki" /></p>
-
-
-![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=ravisolanki27&theme=react-dark&hide_border=true&area=true)
 
 ---
 <h1 align="center">PROJECTS</h1>
