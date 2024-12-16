@@ -1,10 +1,6 @@
 <img src="https://github.com/RaviSolanki27/RaviSolanki27/raw/master/banner.png" style="height: 100% , width:100%">
-<h1 align="center">Sobre mi<span class="punto-celeste">.</span></h1>
-<style>
-  .punto-celeste {
-    color: #00CFFF;
-  }
-</style>
+<h1 align="center">Sobre mi<span style="color: #00CFFF;">.</span></h1>
+
 <h4 align="center">Actualmente soy estudiante autodidacta de programación | Técnico en equipos e instalaciones electromecánicas | Estudiante de Ingeniería Civil | Buen manejo de matemáticas y estadísticas.
 
 Mi enfoque principal es el desarrollo web backend, donde aplico mis conocimientos en Python, Flask, Django, bases de datos MySQL y gestión de APIs. También tengo experiencia en el uso de herramientas como Git y GitHub, y estoy familiarizado con HTML, CSS y Bootstrap para el diseño de Interfaces. Además, utilizo AWS, para la implementación y administración de servidores y bases de datos en la nube.</h3>
