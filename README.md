@@ -50,6 +50,13 @@ Mi enfoque principal es el desarrollo web backend, donde aplico mis conocimiento
 </p>
 
 
+
+#### Desarrollador Fullstack - Arte Sobre Blondas  
+*(Enero 2024 - Octubre 2024 · En remoto · San Vicente, Misiones, Argentina)*  
+- Desarrollé un e-commerce para una tienda de cotillón utilizando **Python (Flask)** y **HTML, CSS, Bootstrap**.  
+- Gestioné bases de datos en **MySQL** para manejar productos, clientes y pedidos.  
+- Implementé la API de **Mercado Pago (Checkout Pro)** y la API de **Google Maps**.  
+- Desplegué el proyecto en **AWS**, utilizando EC2 y RDS.  
 ---
 <h1 align="center">Proyectos </h1>
 
