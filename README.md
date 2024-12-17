@@ -37,11 +37,13 @@ Mi enfoque principal es el desarrollo web backend, donde aplico mis conocimiento
 - Evaluación de trabajos y exámenes, proporcionando retroalimentación constructiva.
 
 ---
+
 <h1 align="center">Proyectos<a href="">.</a></h1>
 
 <h4></> Arte Sobre Blondas</h4>
 
 <a href="https://artesobreblondas.com" target="blank"><img src="asb.png" ></a>
+
 ---
 
 <h1 align="center">Contacto<a href="">.</a></h1>
