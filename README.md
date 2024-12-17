@@ -19,44 +19,26 @@ Mi enfoque principal es el desarrollo web backend, donde aplico mis conocimiento
 
 <h1 align="center">Experiencia</h1>
 
-<h4>Desarrollador Fullstack - Arte Sobre Blondas</h4>
-<h5>Enero 2024 - Octubre 2024 · En remoto · San Vicente, Misiones, Argentina</h5>
-<p>
+###Desarrollador Fullstack - Arte Sobre Blondas
+*Enero 2024 - Octubre 2024 · En remoto · San Vicente, Misiones, Argentina*
 -Desarrollo completo de un ecommerce para una tienda de cotillón, utilizando Python y Flask para el backend. HTML, Bootstrap, y personalizaciones adicionales con CSS para el frontend.
-
 -Gestión de base de datos en MySQL para el manejo de productos, clientes y pedidos.
-
 -Integración de la API de Mercado Pago (Checkout Pro) para procesar pagos de manera segura.
-
 -Implementación de la API de Google Maps para facilitar la ubicación de la tienda y mejorar la experiencia del usuario.
-
 -Control de versiones mediante Git y GitHub, asegurando un flujo de trabajo organizado.
-
 -Despliegue del proyecto en AWS, utilizando EC2 para alojar el servidor y RDS para gestionar la base de datos.
-</p>
 
-<h4>Ayudante de Cátedra (Informática) - Facultad de Ingeniería, UNAM</h4>
-<h5>Marzo 2021 - Julio 2023 · Híbrido · Oberá, Misiones, Argentina</h5>
-<p>
+###Ayudante de Cátedra (Informática) - Facultad de Ingeniería, UNAM
+*Marzo 2021 - Julio 2023 · Híbrido · Oberá, Misiones, Argentina*
 -Colaboración en la enseñanza de lógica de programación utilizando Python.
-
 -Soporte en el uso de hojas de cálculo en LibreOffice, abarcando funciones avanzadas y aplicaciones prácticas.
-
 -Instrucción sobre conceptos de Internet, incluyendo protocolos HTTP, DNS y otras tecnologías relacionadas con redes.
-
 -Apoyo a estudiantes en la resolución de problemas y en la comprensión de conceptos técnicos.
-
 -Evaluación de trabajos y exámenes, proporcionando retroalimentación constructiva.
-</p>
 
 
 
-#### Desarrollador Fullstack - Arte Sobre Blondas  
-*(Enero 2024 - Octubre 2024 · En remoto · San Vicente, Misiones, Argentina)*  
-- Desarrollé un e-commerce para una tienda de cotillón utilizando **Python (Flask)** y **HTML, CSS, Bootstrap**.  
-- Gestioné bases de datos en **MySQL** para manejar productos, clientes y pedidos.  
-- Implementé la API de **Mercado Pago (Checkout Pro)** y la API de **Google Maps**.  
-- Desplegué el proyecto en **AWS**, utilizando EC2 y RDS.  
+
 ---
 <h1 align="center">Proyectos </h1>
 
