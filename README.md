@@ -7,7 +7,7 @@ Mi enfoque principal es el desarrollo web backend, donde aplico mis conocimiento
 
 ---
 
-<h1 align="center">Conocimiento Técnico</h1>
+<h1 align="center">Conocimiento Técnico<a href="">.</a></h1>
 
 <p align="center">
 
@@ -17,7 +17,7 @@ Mi enfoque principal es el desarrollo web backend, donde aplico mis conocimiento
 
 ---
 
-<h1 align="center">Experiencia</h1>
+<h1 align="center">Experiencia<a href="">.</a></h1>
 
 ### Desarrollador Fullstack - Arte Sobre Blondas
 *(Enero 2024 - Octubre 2024 · En remoto · San Vicente, Misiones, Argentina)*
@@ -37,11 +37,11 @@ Mi enfoque principal es el desarrollo web backend, donde aplico mis conocimiento
 - Evaluación de trabajos y exámenes, proporcionando retroalimentación constructiva.
 
 ---
-<h1 align="center">Proyectos </h1>
+<h1 align="center">Proyectos<a href="">.</a></h1>
 
-<h4>1. Todo app using ReactJS </h4>
+<h4>Arte Sobre Blondas </h4>
 
-<a href="https://ravisolanki27.github.io/React-Project/" target="blank"><img src="https://github.com/RaviSolanki27/RaviSolanki27/raw/master/todo.png" ></a>
+<a href="https://artesobreblondas.com" target="blank"><img src="asb.png" ></a>
 
 
 <h4>2. Random Quote generator using NodeJs </h4>
