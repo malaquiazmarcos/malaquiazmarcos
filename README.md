@@ -20,7 +20,6 @@ Mi enfoque principal es el desarrollo web backend, donde aplico mis conocimiento
 <h1 align="center">Experiencia<a href="">.</a></h1>
 
 ### Desarrollador Fullstack - Arte Sobre Blondas
-*(Enero 2024 - Octubre 2024 · En remoto · San Vicente, Misiones, Argentina)*
 - Desarrollo completo de un ecommerce para una tienda de cotillón, utilizando Python y Flask para el backend. HTML, Bootstrap, y personalizaciones adicionales con CSS para el frontend.
 - Gestión de base de datos en MySQL para el manejo de productos, clientes y pedidos.
 - Integración de la API de Mercado Pago (Checkout Pro) para procesar pagos de manera segura.
@@ -29,7 +28,6 @@ Mi enfoque principal es el desarrollo web backend, donde aplico mis conocimiento
 - Despliegue del proyecto en AWS, utilizando EC2 para alojar el servidor y RDS para gestionar la base de datos.
 
 ### Ayudante de Cátedra (Informática) - Facultad de Ingeniería, UNAM
-*(Marzo 2021 - Julio 2023 · Híbrido · Oberá, Misiones, Argentina)*
 - Colaboración en la enseñanza de lógica de programación utilizando Python.
 - Soporte en el uso de hojas de cálculo en LibreOffice, abarcando funciones avanzadas y aplicaciones prácticas.
 - Instrucción sobre conceptos de Internet, incluyendo protocolos HTTP, DNS y otras tecnologías relacionadas con redes.
