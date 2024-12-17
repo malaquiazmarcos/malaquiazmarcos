@@ -15,11 +15,12 @@ Mi enfoque principal es el desarrollo web backend, donde aplico mis conocimiento
 
 ---
 
-<h1 align="center">TECHNOLOGY</h1>
+<h1 align="center">Conocimiento Técnico</h1>
 
-<p align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="height: 4rem"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" style="height:4rem; background-color:white"/>
-<img src="https://skillicons.dev/icons?i=js,html,css,wasm"/>
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=py,mysql,mongodb,django,flask,bootstrap,html,css,aws,git,github,linux,windows"/>
+
 </p>
 
 ---
