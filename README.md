@@ -49,11 +49,11 @@ Mi enfoque principal es el desarrollo web backend, donde aplico mis conocimiento
 <h1 align="center">Contacto<a href="">.</a></h1>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/marcos-daniel-malaquias-5710a9186" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/marcos-daniel-malaquias-5710a9186">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/>
   </a>
   <a href="mailto:malaquiazmarcos@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" alt="Correo" />
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Correo"/>
   </a>
 
 </p>
