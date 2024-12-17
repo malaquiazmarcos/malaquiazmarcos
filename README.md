@@ -32,8 +32,8 @@ Mi enfoque principal es el desarrollo web backend, donde aplico mis conocimiento
 </details>
 
 <details>
-
 <summary><strong>Ayudante de Cátedra (Informática) - Facultad de Ingeniería, UNAM</strong></summary>
+
 - Colaboración en la enseñanza de lógica de programación utilizando Python.
 - Soporte en el uso de hojas de cálculo en LibreOffice, abarcando funciones avanzadas y aplicaciones prácticas.
 - Instrucción sobre conceptos de Internet, incluyendo protocolos HTTP, DNS y otras tecnologías relacionadas con redes.
