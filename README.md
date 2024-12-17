@@ -61,20 +61,8 @@ Mi enfoque principal es el desarrollo web backend, donde aplico mis conocimiento
   <a href="mailto:malaquiazmarcos@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" alt="Correo"/>
   </a>
-
 </p>
 
-
-<details>
-  <summary>Haz clic aquí para expandir</summary>
-  
-  **Contenido dentro del toggle:**  
-  - Este contenido estará oculto por defecto.  
-  - Se mostrará cuando el usuario haga clic en el resumen.  
-  - Puedes incluir texto, imágenes, listas, enlaces, etc.
-
-  ![Ejemplo](https://via.placeholder.com/150)
-</details>
 
 
 
