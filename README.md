@@ -42,12 +42,6 @@ Mi enfoque principal es el desarrollo web backend, donde aplico mis conocimiento
 <h4></> Arte Sobre Blondas</h4>
 
 <a href="https://artesobreblondas.com" target="blank"><img src="asb.png" ></a>
-
-
-<h4>2. Random Quote generator using NodeJs </h4>
-
-<a href="https://ravisolanki27.github.io/Quote-Generator/" target="blank"><img src="https://github.com/RaviSolanki27/RaviSolanki27/raw/master/qoutegenerator.png" ></a>
-
 ---
 
 <h1 align="center">Contacto<a href="">.</a></h1>
