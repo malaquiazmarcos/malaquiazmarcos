@@ -20,7 +20,7 @@ Mi enfoque principal es el desarrollo web backend, donde aplico mis conocimiento
 <h1 align="center">Experiencia<a href="">.</a></h1>
 
 <details>
-<summary>### Desarrollador Fullstack - Arte Sobre Blondas</summary>
+<summary><strong>Desarrollador Fullstack - Arte Sobre Blondas</strong></summary>
 - Desarrollo completo de un ecommerce para una tienda de cotillón, utilizando Python y Flask para el backend. HTML, Bootstrap, y personalizaciones adicionales con CSS para el frontend.
 - Gestión de base de datos en MySQL para el manejo de productos, clientes y pedidos.
 - Integración de la API de Mercado Pago (Checkout Pro) para procesar pagos de manera segura.
@@ -30,7 +30,7 @@ Mi enfoque principal es el desarrollo web backend, donde aplico mis conocimiento
 </details>
 
 <details>
-<summary>### Ayudante de Cátedra (Informática) - Facultad de Ingeniería, UNAM</summary>
+<summary><strong>Ayudante de Cátedra (Informática) - Facultad de Ingeniería, UNAM</strong></summary>
 - Colaboración en la enseñanza de lógica de programación utilizando Python.
 - Soporte en el uso de hojas de cálculo en LibreOffice, abarcando funciones avanzadas y aplicaciones prácticas.
 - Instrucción sobre conceptos de Internet, incluyendo protocolos HTTP, DNS y otras tecnologías relacionadas con redes.
