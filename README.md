@@ -1,4 +1,4 @@
-<img src="https://github.com/RaviSolanki27/RaviSolanki27/raw/master/banner" style="height: 100% , width:100%">
+<img src="portada.png" style="height: 100% , width:100%">
 <h1 align="center">Sobre mi<a href="">.</a></h1>
 
 <p>Actualmente soy estudiante autodidacta de programación | Técnico en equipos e instalaciones electromecánicas | Estudiante de Ingeniería Civil | Buen manejo de matemáticas y estadísticas.
