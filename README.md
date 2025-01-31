@@ -50,13 +50,25 @@ Mi enfoque principal es el desarrollo web backend, donde aplico mis conocimiento
 
 <a href="https://artesobreblondas.com" target="blank"><img src="asb.png" ></a>
 
+**Tecnologías utilizadas:**
+- **Backend:** Python (Flask)  
+- **Base de Datos:** MySQL
+- **APIS:** CheckoutPro (Mercado Pago), Google Maps
+- **Cloud:** AWS (EC2 y RDS)
+- **Control de versiones:** Git y GitHub
+- **Frontend:** HTML, CSS, Bootstrap 
+
+---
+
 <h4></> Predio el Fulbito </h4>
 
 <a href="https://predioelfulbito.pythonanywhere.com/" target="blank"><img src="elfulbito.png" ></a>
 
 **Tecnologías utilizadas:**
 - **Backend:** Python (Django)  
-- **Base de Datos:** MySQL  
+- **Base de Datos:** MySQL
+- **Control de versiones:** Git y GitHub
+- **Deploy:** PythonAnywhere
 - **Frontend:** HTML, CSS, Bootstrap  
 
 <details>
@@ -66,6 +78,7 @@ Este proyecto es una aplicación web para la gestión de reservas en un predio d
 El predio cuenta con tres canchas:
 - Dos canchas de Fútbol 5.
 - Una cancha de Paddel.
+
 Los usuarios pueden crear una cuenta, iniciar sesión y reservar las canchas en los horarios disponibles, también pueden cancelar sus reservas. De esta forma, el sistema facilita la organización de las reservas y permite un control eficiente de los horarios y la disponibilidad de las canchas.
 </details>
 
