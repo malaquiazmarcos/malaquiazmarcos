@@ -58,18 +58,11 @@ Mi enfoque principal es el desarrollo web backend, donde aplico mis conocimiento
 - **Control de versiones:** Git y GitHub
 - **Frontend:** HTML, CSS, Bootstrap 
 
----
+___
 
 <h4></> Predio el Fulbito </h4>
 
 <a href="https://predioelfulbito.pythonanywhere.com/" target="blank"><img src="elfulbito.png" ></a>
-
-**Tecnologías utilizadas:**
-- **Backend:** Python (Django)  
-- **Base de Datos:** MySQL
-- **Control de versiones:** Git y GitHub
-- **Deploy:** PythonAnywhere
-- **Frontend:** HTML, CSS, Bootstrap  
 
 <details>
 <summary><strong>Descripción del proyecto.</strong></summary>
@@ -81,6 +74,13 @@ El predio cuenta con tres canchas:
 
 Los usuarios pueden crear una cuenta, iniciar sesión y reservar las canchas en los horarios disponibles, también pueden cancelar sus reservas. De esta forma, el sistema facilita la organización de las reservas y permite un control eficiente de los horarios y la disponibilidad de las canchas.
 </details>
+
+**Tecnologías utilizadas:**
+- **Backend:** Python (Django)  
+- **Base de Datos:** MySQL
+- **Control de versiones:** Git y GitHub
+- **Deploy:** PythonAnywhere
+- **Frontend:** HTML, CSS, Bootstrap  
 
 ---
 
