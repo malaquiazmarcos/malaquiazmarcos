@@ -58,11 +58,11 @@ Mi enfoque principal es el desarrollo web backend, donde aplico mis conocimiento
 - **Control de versiones:** Git y GitHub
 - **Frontend:** HTML, CSS, Bootstrap 
 
-___
+***
 
 <h4></> Predio el Fulbito </h4>
 
-<a href="https://predioelfulbito.pythonanywhere.com/" target="blank"><img src="elfulbito.png" ></a>
+<a href="https://predioelfulbito.pythonanywhere.com/" target="blank"><img src="predioelfulbito.png" ></a>
 
 <details>
 <summary><strong>Descripción del proyecto.</strong></summary>
