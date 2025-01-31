@@ -46,9 +46,13 @@ Mi enfoque principal es el desarrollo web backend, donde aplico mis conocimiento
 
 <h1 align="center">Proyectos<a href="">.</a></h1>
 
-<h4></> Arte Sobre Blondas</h4>
+<h4></> Arte Sobre Blondas </h4>
 
 <a href="https://artesobreblondas.com" target="blank"><img src="asb.png" ></a>
+
+<h4></> Predio el Fulbito </h4>
+
+<a href="https://predioelfulbito.pythonanywhere.com/" target="blank"><img src="elfulbito.png" ></a>
 
 ---
 
