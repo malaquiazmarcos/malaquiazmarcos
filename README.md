@@ -80,7 +80,32 @@ Los usuarios pueden crear una cuenta, iniciar sesión y reservar las canchas en 
 - **Base de Datos:** MySQL
 - **Control de versiones:** Git y GitHub
 - **Deploy:** PythonAnywhere
+- **Frontend:** HTML, CSS, Bootstrap
+
+***
+
+<h4></> WanderVibes </h4>
+
+<a href="https://wandervibes.pythonanywhere.com/" target="blank"><img src="cap-wandervibes.png" ></a>
+
+<details>
+<summary><strong>Descripción del proyecto</strong></summary>
+  
+Este proyecto es una aplicación web para la gestión de reservas en un predio deportivo.
+El predio cuenta con tres canchas:
+- Dos de Fútbol 5.
+- Una de Paddel.
+
+Los usuarios pueden crear una cuenta, iniciar sesión y reservar las canchas en los horarios disponibles, también pueden cancelar sus reservas. De esta forma, el sistema facilita la organización de las reservas y permite un control eficiente de los horarios y la disponibilidad de las canchas.
+</details>
+
+**Tecnologías utilizadas:**
+- **Backend:** Python (Django)  
+- **Base de Datos:** MySQL
+- **Control de versiones:** Git y GitHub
+- **Deploy:** PythonAnywhere
 - **Frontend:** HTML, CSS, Bootstrap  
+
 
 ---
 
