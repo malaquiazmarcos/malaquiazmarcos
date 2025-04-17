@@ -49,6 +49,8 @@ Mi enfoque principal es el desarrollo web backend, donde aplico mis conocimiento
 
 <h1 align="center">Proyectos<a href="">.</a></h1>
 
+<p>🔗 Las imagenes son interactivas, al hacer clic accedés a la app para verla en vivo.</p>
+
 <h3></> WanderVibes </h3>
 
 <a href="https://wandervibes.pythonanywhere.com/" target="blank"><img src="cap-wandervibes.png" ></a>
