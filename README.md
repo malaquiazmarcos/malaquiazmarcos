@@ -5,6 +5,9 @@
 
 Mi enfoque principal es el desarrollo web backend, donde aplico mis conocimientos en Python, Flask, Django, bases de datos MySQL y gestión de APIs. También tengo experiencia en el uso de herramientas como Git y GitHub, y estoy familiarizado con HTML, CSS y Bootstrap para el diseño de Interfaces. Además, utilizo AWS, para la implementación y administración de servidores y bases de datos en la nube.</p> 
 
+- <a href="CV-Marcos-Malaquias-V.pdf" download>📄 Descargar CV</a>
+- Email: malaquiazmarcos@gmail.com
+
 ---
 
 <h1 align="center">Conocimiento Técnico<a href="">.</a></h1>
@@ -68,8 +71,8 @@ Aplicación web interactiva que consume la API de Rest Countries para mostrar in
 </details>
 
 **Tecnologías utilizadas:**
-- **Backend:** Django (Python).  
-- **Interactividad:** AJAX (JavaScript) para evitar recargas en Guess Country.
+- **Backend:** Django (Python)  
+- **Interactividad:** AJAX (JavaScript) para evitar recargas en Guess Country
 - **Control de versiones:** Git y GitHub
 - **Deploy:** PythonAnywhere
 - **Frontend:** HTML, CSS, Bootstrap  
@@ -114,7 +117,7 @@ Los usuarios pueden crear una cuenta, iniciar sesión y reservar las canchas en 
 
 ---
 
-<h1 align="center">Contacto<a href="">.</a></h1>
+<h1 align="center">Contacto directo<a href="">.</a></h1>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/marcos-daniel-malaquias-5710a9186">
