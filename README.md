@@ -49,7 +49,7 @@ Mi enfoque principal es el desarrollo web backend, donde aplico mis conocimiento
 
 <h1 align="center">Proyectos<a href="">.</a></h1>
 
-🔗 **IMPORTANTE:** Las imagenes son interactivas, al hacer clic accedés a la app para verla en vivo.
+⚠️ **IMPORTANTE:** Las imagenes son interactivas, al hacer clic accedés a la app para verla en vivo.
 
 <h3></> WanderVibes </h3>
 
@@ -61,14 +61,16 @@ Mi enfoque principal es el desarrollo web backend, donde aplico mis conocimiento
 Aplicación web interactiva que consume la API de Rest Countries para mostrar información detallada de todos los países del mundo. Los usuarios pueden explorar datos como capital, población, idioma, moneda, banderas, entre otros,  además de comparar países y poner a prueba sus conocimientos geográficos.
 
 **Enfoque técnico y mejoras:**
-- **Documentación:** Cada función y método está documentado con docstrings (estilo PEP 257), facilitando el mantenimiento y escalabilidad del código.
+- **Documentación:** cada función y método está documentado con docstrings (estilo PEP 257), facilitando el mantenimiento y escalabilidad del código.
 
 - **Optimización de API:**
-  - Problema: Algunas respuestas de la API eran demasiado grandes, causando lentitud.
+  - Problema: algunas respuestas de la API eran demasiado grandes, causando lentitud.
   - Solución:
     - Filtrado de datos en el backend para solicitar solo campos necesarios.
     - Implementación de un sistema de cacheo manual: las respuestas de la API se guardan en archivos .json locales (simulando caché) y se reutilizan en consultas futuras si ya están disponibles.
-  - Resultado: Reducción significativa en el tiempo de carga y menor consumo de ancho de banda. La aplicación se mantiene rápida incluso en conexiones lentas.
+  - Resultado: reducción significativa en el tiempo de carga y menor consumo de ancho de banda. La aplicación se mantiene rápida incluso en conexiones lentas.
+
+- **Inglés:** interfaz y documentación realizadas completamente en inglés como parte de una práctica activa del idioma.
 
 </details>
 
