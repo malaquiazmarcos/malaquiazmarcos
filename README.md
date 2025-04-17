@@ -59,11 +59,11 @@ Aplicación web interactiva que consume la API de Rest Countries para mostrar in
 - Documentación: Cada función y método está documentado con docstrings (estilo PEP 257), facilitando el mantenimiento y escalabilidad del código.
 
 - Optimización de API:
-Problema: Algunas respuestas de la API eran demasiado grandes, causando lentitud.
-Solución:
+  - Problema: Algunas respuestas de la API eran demasiado grandes, causando lentitud.
+  - Solución:
 Filtrado de datos en el backend para solicitar solo campos necesarios.
 Implementación de un sistema de cacheo manual: las respuestas de la API se guardan en archivos .json locales (simulando caché) y se reutilizan en consultas futuras si ya están disponibles.
-Resultado: Reducción significativa en el tiempo de carga y menor consumo de ancho de banda. La aplicación se mantiene rápida incluso en conexiones lentas.
+  - Resultado: Reducción significativa en el tiempo de carga y menor consumo de ancho de banda. La aplicación se mantiene rápida incluso en conexiones lentas.
 
 </details>
 
