@@ -5,7 +5,7 @@
 
 Mi enfoque principal es el desarrollo web backend, donde aplico mis conocimientos en Python, Flask, Django, bases de datos MySQL y gestión de APIs. También tengo experiencia en el uso de herramientas como Git y GitHub, y estoy familiarizado con HTML, CSS y Bootstrap para el diseño de Interfaces. Además, utilizo AWS, para la implementación y administración de servidores y bases de datos en la nube.</p> 
 
-- <a href="CV-Marcos-Malaquias-V.pdf" download>📄 Descargar CV</a>
+- [Ver o descargar CV](CV-Marcos-Malaquias-V.pdf)
 - Email: malaquiazmarcos@gmail.com
 
 ---
