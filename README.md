@@ -46,17 +46,33 @@ Mi enfoque principal es el desarrollo web backend, donde aplico mis conocimiento
 
 <h1 align="center">Proyectos<a href="">.</a></h1>
 
-<h4></> Arte Sobre Blondas </h4>
+<h4></> WanderVibes </h4>
 
-<a href="https://artesobreblondas.com" target="blank"><img src="asb.png" ></a>
+<a href="https://wandervibes.pythonanywhere.com/" target="blank"><img src="cap-wandervibes.png" ></a>
+
+<details>
+<summary><strong>Descripción del proyecto</strong></summary>
+  
+Aplicación web interactiva que consume la API de Rest Countries para mostrar información detallada de todos los países del mundo. Los usuarios pueden explorar datos como capital, población, idioma, moneda, banderas, entre otros,  además de comparar países y poner a prueba sus conocimientos geográficos.
+
+**Enfoque técnico y mejoras:**
+- Documentación: Cada función y método está documentado con docstrings (estilo PEP 257), facilitando el mantenimiento y escalabilidad del código.
+
+- Optimización de API:
+Problema: Algunas respuestas de la API eran demasiado grandes, causando lentitud.
+Solución:
+Filtrado de datos en el backend para solicitar solo campos necesarios.
+Implementación de un sistema de cacheo manual: las respuestas de la API se guardan en archivos .json locales (simulando caché) y se reutilizan en consultas futuras si ya están disponibles.
+Resultado: Reducción significativa en el tiempo de carga y menor consumo de ancho de banda. La aplicación se mantiene rápida incluso en conexiones lentas.
+
+</details>
 
 **Tecnologías utilizadas:**
-- **Backend:** Python (Flask)  
-- **Base de Datos:** MySQL
-- **APIS:** CheckoutPro (Mercado Pago), Google Maps
-- **Cloud:** AWS (EC2 y RDS)
+- **Backend:** Django (Python).  
+- **Interactividad:** AJAX (JavaScript) para evitar recargas en Guess Country.
 - **Control de versiones:** Git y GitHub
-- **Frontend:** HTML, CSS, Bootstrap 
+- **Deploy:** PythonAnywhere
+- **Frontend:** HTML, CSS, Bootstrap  
 
 ***
 
@@ -84,28 +100,17 @@ Los usuarios pueden crear una cuenta, iniciar sesión y reservar las canchas en 
 
 ***
 
-<h4></> WanderVibes </h4>
+<h4></> Arte Sobre Blondas </h4>
 
-<a href="https://wandervibes.pythonanywhere.com/" target="blank"><img src="cap-wandervibes.png" ></a>
-
-<details>
-<summary><strong>Descripción del proyecto</strong></summary>
-  
-Este proyecto es una aplicación web para la gestión de reservas en un predio deportivo.
-El predio cuenta con tres canchas:
-- Dos de Fútbol 5.
-- Una de Paddel.
-
-Los usuarios pueden crear una cuenta, iniciar sesión y reservar las canchas en los horarios disponibles, también pueden cancelar sus reservas. De esta forma, el sistema facilita la organización de las reservas y permite un control eficiente de los horarios y la disponibilidad de las canchas.
-</details>
+<a href="https://artesobreblondas.com" target="blank"><img src="asb.png" ></a>
 
 **Tecnologías utilizadas:**
-- **Backend:** Python (Django)  
+- **Backend:** Python (Flask)  
 - **Base de Datos:** MySQL
+- **APIS:** CheckoutPro (Mercado Pago), Google Maps
+- **Cloud:** AWS (EC2 y RDS)
 - **Control de versiones:** Git y GitHub
-- **Deploy:** PythonAnywhere
-- **Frontend:** HTML, CSS, Bootstrap  
-
+- **Frontend:** HTML, CSS, Bootstrap 
 
 ---
 
