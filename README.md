@@ -51,6 +51,39 @@ Mi enfoque principal es el desarrollo web backend, donde aplico mis conocimiento
 
 ⚠️ **IMPORTANTE:** Las imagenes son interactivas, al hacer clic accedés a la app para verla en vivo.
 
+<h3></> Unit Bride API </h3>
+
+<a href="https://unitbridgeapi.pythonanywhere.com/" target="blank"><img src="unit-bridge-api.png" ></a>
+
+<details>
+<summary><strong>Descripción del proyecto</strong></summary>
+  
+API desarrollada utilizando Django puro, sin herramientas como Django REST Framework. El objetivo principal del proyecto fue comprender en profundidad el funcionamiento de una API, construyéndola paso a paso de forma manual.
+
+Permite convertir unidades de medida (longitud, peso, temperatura, etc.) a través de endpoints simples y claros. La documentación fue construida manualmente con HTML, CSS y Bootstrap, ofreciendo una interfaz visual donde se explican las rutas disponibles y cómo interactuar con ellas.
+
+**Enfoque técnico y aprendizaje:**
+- **Validaciones y control de errores:** se implementó un sistema de validación para asegurar respuestas claras y coherentes ante entradas inválidas o solicitudes incorrectas.
+- **Respuestas en formato JSON:** las respuestas fueron estructuradas manualmente, sin depender de herramientas externas, lo que permitió un control total sobre el contenido y el formato de salida.
+- **Rate limiting con base de datos:** se utilizó el decorador `ratelimit` para limitar la cantidad de solicitudes por IP en un período determinado. Las peticiones se registran en una base de datos MySQL.
+- **Registro de eventos (logging):** se integró el módulo `logging` de Python para registrar eventos importantes, facilitando la depuración y el monitoreo del sistema.
+</details>
+
+**Tecnologías utilizadas:**
+- **Backend:** Django (Python)  
+- **Base de datos:** MySQL (para caché de rate limit)  
+- **Frontend de la documentación:** HTML, CSS, Bootstrap  
+- **Control de versiones:** Git y GitHub  
+- **Deploy:** PythonAnywhere
+
+***
+
+
+
+
+
+
+
 <h3></> WanderVibes </h3>
 
 <a href="https://wandervibes.pythonanywhere.com/" target="blank"><img src="cap-wandervibes.png" ></a>
