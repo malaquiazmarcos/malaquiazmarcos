@@ -60,7 +60,7 @@ Mi enfoque principal es el desarrollo web backend, donde aplico mis conocimiento
   
 API desarrollada utilizando Django puro, sin herramientas como Django REST Framework. El objetivo principal del proyecto fue comprender en profundidad el funcionamiento de una API, construyéndola paso a paso de forma manual.
 
-Permite convertir unidades de medida (longitud, peso, temperatura, etc.) a través de endpoints simples y claros. La documentación también fue construida manualmente con HTML, CSS y Bootstrap, ofreciendo una interfaz visual donde se explican las rutas disponibles y cómo interactuar con ellas.
+Permite convertir unidades de medida (longitud, peso, temperatura, etc.) a través de endpoints simples y claros. La documentación también fue construida manualmente con HTML, CSS y Bootstrap, ofreciendo una interfaz visual muy sencilla donde se explican las rutas disponibles y cómo interactuar con ellas.
 
 **Enfoque técnico y aprendizaje:**
 - **Validaciones y control de errores:** se implementó un sistema de validación para asegurar respuestas claras y coherentes ante entradas inválidas o solicitudes incorrectas.
