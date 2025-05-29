@@ -53,7 +53,7 @@ Mi enfoque principal es el desarrollo web backend, donde aplico mis conocimiento
 
 <h3></> Unit Bride API </h3>
 
-<a href="https://unitbridgeapi.pythonanywhere.com/" target="blank"><img src="Desktop.png" ></a>
+<a href="https://unitbridgeapi.pythonanywhere.com/" target="blank"><img src="unit-bridge-api.png" ></a>
 
 <details>
 <summary><strong>Descripción del proyecto</strong></summary>
