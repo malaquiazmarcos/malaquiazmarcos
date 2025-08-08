@@ -51,6 +51,35 @@ Mi enfoque principal es el desarrollo web backend, donde aplico mis conocimiento
 
 ⚠️ **IMPORTANTE:** Las imagenes son interactivas, al hacer clic accedés a la app para verla en vivo.
 
+<h3></> Units Forge </h3>
+
+<a href="https://unitbridgeapi.pythonanywhere.com/" target="blank"><img src="unit-bridge-api.png" ></a>
+
+<details>
+<summary><strong>Descripción del proyecto</strong></summary>
+  
+Aplicación web interactiva desarrollada con React que consume mi propia API de conversión de unidades '[Units Forge](https://unitbridgeapi.pythonanywhere.com/)', creando un ecosistema completo de frontend y backend. El proyecto abarca múltiples categorías como longitud, peso, temperatura, volumen, área, tiempo, velocidad, etc.
+
+La interfaz cuenta con un sistema de navegación por categorías, selectores dinámicos para elegir unidades de origen y destino, y conversiones bidireccionales en tiempo real mediante llamadas a la API. Incluye además una sección informativa con detalles sobre cada categoría de unidad disponible.
+
+**Enfoque técnico y aprendizaje:**
+- **Componentes reutilizables:** se desarrolló una arquitectura modular con componentes React separados por responsabilidad, facilitando el mantenimiento y escalabilidad del código.
+- **Gestión de estado y peticiones:** implementación de hooks (useState, useEffect) para manejar el estado de las conversiones, llamadas asíncronas a la API y la navegación entre categorías.
+- **Estilos modulares:** utilización de CSS Modules para encapsular estilos por componente, evitando conflictos y mejorando la organización del código.
+- **Experiencia de usuario:** integración de librerías como react-select para selectores avanzados y implementación de elementos interactivos como botón de scroll flotante.
+- **Responsive design:**  diseño adaptativo que funciona correctamente en dispositivos móviles y desktop.
+</details>
+
+**Tecnologías utilizadas:**
+- **Frontend:** React (JavaScript)
+- **Backend:** API REST propia (Django - Python)
+- **Estilos:** CSS Modules, Bootstrap
+- **Librerías:** react-select  
+- **Control de versiones:** Git y GitHub  
+- **Deploy:** Vercel
+
+***
+
 <h3></> Unit Bride API </h3>
 
 <a href="https://unitbridgeapi.pythonanywhere.com/" target="blank"><img src="unit-bridge-api.png" ></a>
