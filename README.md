@@ -53,7 +53,7 @@ Mi enfoque principal es el desarrollo web backend, donde aplico mis conocimiento
 
 <h3></> Units Forge </h3>
 
-<a href="https://unitbridgeapi.pythonanywhere.com/" target="blank"><img src="unit-bridge-api.png" ></a>
+<a href="https://unit-forge-silk.vercel.app/" target="blank"><img src="units-forge.png" ></a>
 
 <details>
 <summary><strong>Descripción del proyecto</strong></summary>
@@ -66,7 +66,6 @@ La interfaz cuenta con un sistema de navegación por categorías, selectores din
 - **Componentes reutilizables:** se desarrolló una arquitectura modular con componentes React separados por responsabilidad, facilitando el mantenimiento y escalabilidad del código.
 - **Gestión de estado y peticiones:** implementación de hooks (useState, useEffect) para manejar el estado de las conversiones, llamadas asíncronas a la API y la navegación entre categorías.
 - **Estilos modulares:** utilización de CSS Modules para encapsular estilos por componente, evitando conflictos y mejorando la organización del código.
-- **Experiencia de usuario:** integración de librerías como react-select para selectores avanzados y implementación de elementos interactivos como botón de scroll flotante.
 - **Responsive design:**  diseño adaptativo que funciona correctamente en dispositivos móviles y desktop.
 </details>
 
