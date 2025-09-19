@@ -14,7 +14,7 @@ Mi enfoque principal es el desarrollo web backend, donde aplico mis conocimiento
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=py,mysql,mongodb,django,flask,js,react,html,css,bootstrap,aws,git,github,linux,windows"/>
+<img src="https://skillicons.dev/icons?i=py,mysql,mongodb,django,flask,js,react,html,css,bootstrap,docker,aws,git,github,linux,windows"/>
 
 </p>
 
