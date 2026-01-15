@@ -23,7 +23,7 @@ Mi enfoque principal es el desarrollo web backend, donde aplico mis conocimiento
 <h1 align="center">Experiencia<a href="">.</a></h1>
 
 <details>
-<summary><strong>Founder & Desarrollador Full Stack</strong></summary>
+<summary><strong>Founder & Desarrollador Full Stack | ahoraCity</strong></summary>
   
 - Desarrollo completo de una plataforma de servicios locales, desacoplando el frontend del backend.
 - Construcción del backend utilizando Python y Django REST Framework (DRF) para crear una API REST.
@@ -44,7 +44,7 @@ Mi enfoque principal es el desarrollo web backend, donde aplico mis conocimiento
 - Desarrollo de algoritmos financieros para el cálculo automático de precios, intereses, descuentos y comisiones de venta.
 - Automatización de documentos: Generación de Vouchers y recibos en PDF con integración de Códigos QR para validación rápida.
 - Implementación de módulos de auditoría y seguridad con roles de usuario específicos (Administrador/Vendedor).
-- 
+
 </details>
 
 <details>
