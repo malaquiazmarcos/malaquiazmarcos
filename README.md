@@ -23,6 +23,31 @@ Mi enfoque principal es el desarrollo web backend, donde aplico mis conocimiento
 <h1 align="center">Experiencia<a href="">.</a></h1>
 
 <details>
+<summary><strong>Founder & Desarrollador Full Stack</strong></summary>
+  
+- Desarrollo completo de una plataforma de servicios locales, desacoplando el frontend del backend.
+- Construcción del backend utilizando Python y Django REST Framework (DRF) para crear una API REST.
+- Desarrollo del frontend con React.js, consumiendo la API para una interfaz dinámica.
+- Implementación de Docker para containerizar la aplicación, asegurando la consistencia tanto en desarrollo como en el despliegue en producción.
+- Configuración y despliegue (Deploy) del proyecto en un VPS de DigitalOcean, gestionando el servidor web (Nginx).
+- Gestión de base de datos en MySQL con el ORM de Django.
+- Integración de Django Summernote para la carga de contenido enriquecido, entre otras librerías.
+  
+</details>
+
+<details>
+<summary><strong>Freelance Full Stack Developer | Lesly Group</strong></summary>
+(Sistema de Gestión ERP - Agencia de Turismo)
+
+- Desarrollo e implementación de un sistema de gestión integral a medida para la digitalización de procesos de la empresa.
+- Migración de flujos de trabajo manuales a una plataforma web centralizada con Django (Templates) y MySQL.
+- Desarrollo de algoritmos financieros para el cálculo automático de precios, intereses, descuentos y comisiones de venta.
+- Automatización de documentos: Generación de Vouchers y recibos en PDF con integración de Códigos QR para validación rápida.
+- Implementación de módulos de auditoría y seguridad con roles de usuario específicos (Administrador/Vendedor).
+- 
+</details>
+
+<details>
 <summary><strong>Desarrollador Fullstack - Arte Sobre Blondas</strong></summary>
   
 - Desarrollo completo de un ecommerce para una tienda de cotillón, utilizando Python y Flask para el backend. HTML, Bootstrap, y personalizaciones adicionales con CSS para el frontend.
@@ -84,6 +109,48 @@ Plataforma digital local desarrollada para centralizar la información de servic
 - **DevOps:** Docker, DigitalOcean, Nginx
 - **Librerías:** summernote entre otras 
 - **Control de versiones:** Git y GitHub  
+
+***
+
+<h3></> Lesly Group - Sistema de Gestión (ERP)</h3>
+
+<a href="#" target="blank"><img src="lesly_group.png" ></a>
+
+<details> <summary><strong>Descripción del proyecto</strong></summary>
+
+Sistema de gestión integral (ERP) desarrollado a medida para una agencia de turismo. El software digitalizó la operatoria completa de la empresa, reemplazando procesos manuales y planillas de cálculo.
+
+El sistema permite la creación y administración de paquetes turísticos, seguimiento de vencimientos y gestión de cartera de clientes.
+
+**Funcionalidades Clave:**
+
+- **Motor Financiero:** Algoritmo para el cálculo dinámico de precios, aplicando intereses, descuentos y financiación en cuotas de forma automática.
+
+- **Automatización Documental:** Generación de comprobantes y cupones de pago en PDF con integración de Códigos QR y de Barras.
+
+- **Flujo Operativo Ágil:** El sistema de escaneo QR permite a los vendedores acceder instantáneamente a la reserva del cliente para imputar pagos o actualizar estados.
+
+- **Auditoría y Comisiones:** Módulo de registro de actividad (Logs) que traza cada acción de los empleados para el cálculo exacto de comisiones y control de seguridad.
+
+- **Notificaciones:** Envío automático de comprobantes por correo electrónico tras la confirmación de transferencias.
+
+**Enfoque técnico:**
+
+- **Arquitectura Monolítica (MVT):** Desarrollo robusto utilizando el sistema de plantillas de Django (Server Side Rendering) para garantizar seguridad y rapidez en el desarrollo.
+
+- **Base de Datos Relacional:** Diseño complejo en MySQL para manejar la integridad transaccional de pagos, reservas y cuentas corrientes.
+
+- **Frontend Responsivo:** Interfaz construida con Bootstrap y CSS personalizado, priorizando la claridad de la información y la facilidad de uso para el personal administrativo.
+
+</details>
+
+**Tecnologías utilizadas:**
+
+- **Backend & Frontend:** Python, Django (Templates)
+- **Base de Datos:** MySQL
+- **Estilos:** Bootstrap 5, CSS3
+- **Herramientas:** Generación de PDF, QR Code Integration, SMTP con Brevo (Email)
+- **Infraestructura:** Despliegue en servidor privado.
 
 ***
 
