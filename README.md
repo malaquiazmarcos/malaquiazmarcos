@@ -51,6 +51,42 @@ Mi enfoque principal es el desarrollo web backend, donde aplico mis conocimiento
 
 ⚠️ **IMPORTANTE:** Las imagenes son interactivas, al hacer clic accedés a la app para verla en vivo.
 
+<h3></> ahoraCity</h3>
+
+<a href="https://ahoracity.com/" target="blank"><img src="ahoraCity2.png" ></a>
+
+<details> <summary><strong>Sobre el proyecto</strong></summary>
+
+Plataforma digital local desarrollada para centralizar la información de servicios y comercios de la ciudad. El producto resuelve necesidades críticas de la comunidad ofreciendo:
+
+- **Farmacias de turno:** Cálculo algorítmico perpetuo para visualización en tiempo real.
+
+- **Sistema de Emergencias:** Directorio con funcionalidad "Click-to-Call" para acceso inmediato a servicios esenciales.
+
+- **Guía Comercial:** Catálogo detallado con perfiles de comerciantes, profesionales y servicios, administrados de forma centralizada.
+
+**Infraestructura y Arquitectura:**
+
+- **Backend:** API RESTful construida con Django REST Framework, encargada de la lógica de negocio y la orquestación de datos.
+
+- **Frontend:** Single Page Application (SPA) desarrollada en React.js, optimizada para dispositivos móviles (Mobile First) consumiendo endpoints JSON.
+
+- **DevOps:** Entorno containerizado con Docker para asegurar consistencia entre desarrollo y producción. Despliegue en VPS DigitalOcean utilizando Nginx como servidor web.
+
+- **Gestión de Datos:** Base de datos MySQL con implementación de editores Rich Text (Summernote) para la administración eficiente de contenidos.
+
+</details>
+
+**Tecnologías utilizadas:**
+- **Backend:** Python, Django REST Framework (DRF)
+- **Frontend:** React.js
+- **Estilos:** CSS Modules, Bootstrap
+- **DevOps:** Docker, DigitalOcean, Nginx
+- **Librerías:** summernote entre otras 
+- **Control de versiones:** Git y GitHub  
+
+***
+
 <h3></> Units Forge </h3>
 
 <a href="https://unit-forge-silk.vercel.app/" target="blank"><img src="units-forge.png" ></a>
