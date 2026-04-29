@@ -79,35 +79,53 @@ Mi enfoque principal es el desarrollo web backend, donde aplico mis conocimiento
 
 <h3></> Club San Rafael - SaaS de Gestión Deportiva</h3>
 
-<details open> <!-- Le pongo 'open' para que este sea el único que aparezca abierto por defecto -->
-<summary><strong>Descripción del proyecto y Vistas del Sistema</strong></summary>
-<br>
-Sistema Multi-Tenant (SaaS) desarrollado para la administración integral de academias deportivas, control de asistencias y facturación dinámica. Desplegado en servidor propio.
+<!-- 1. LA PORTADA (Gancho Visual) -->
+<!-- Cambiá 'portada_san_rafael.png' por el nombre de tu archivo -->
+<p align="center">
+  <a href="https://sanrafaelcg.com.ar" target="_blank">
+    <img src="portada_srcg.jpg" width="850px" alt="Portada San Rafael">
+  </a>
+</p>
 
-<!-- ACÁ ESTÁ LA MAGIA DE LA GRILLA DE IMÁGENES -->
-<table align="center">
-  <tr>
-    <td align="center">
-      <strong>Dashboard Financiero</strong><br>
-      <img src="URL_CAPTURA_PAGOS.png" width="350px;" alt="Motor Financiero"/>
-    </td>
-    <td align="center">
-      <strong>Control de Asistencias (Mobile)</strong><br>
-      <img src="URL_CAPTURA_ASISTENCIA.png" width="350px;" alt="Vista Mobile"/>
-    </td>
-  </tr>
-</table>
+<!-- 2. RESUMEN CORTO (El Elevator Pitch) -->
+<p>
+  Plataforma Multi-Tenant en producción para la administración de academias deportivas. 
+  Maneja facturación dinámica, control de asistencias móvil y automatización de procesos para más de 75 usuarios activos. 
+  Desarrollado con Django, Docker y desplegado en un VPS propio en DigitalOcean.
+</p>
 
-**Funcionalidades Clave:**
-- **Aislamiento de Datos (Multi-Tenant):** Arquitectura basada en Mixins para separar la información por disciplina y profesor dentro de una misma base de datos.
-- **Motor Financiero:** Facturación dinámica, control de deudores y validación de pagos con interacción vía WhatsApp.
-- **Dualidad de Roles:** Lógica de negocio adaptada para inscripciones de menores (Tutor/Alumno) y categorías de mayores (Autogestión).
+<!-- 3. LAS ENTRAÑAS (Toggle oculto para el reclutador técnico) -->
+<details>
+  <summary><strong>📸 Ver arquitectura interna y capturas del sistema</strong></summary>
+  <br>
+  
+  <!-- Grilla de 2 columnas para las capturas internas -->
+  <table align="center">
+    <tr>
+      <td align="center">
+        <strong>Motor Financiero (Panel Admin)</strong><br>
+        <!-- Cambiá 'captura_pagos.png' por tu imagen -->
+        <img src="captura_pagos.png" width="400px" alt="Motor Financiero">
+      </td>
+      <td align="center">
+        <strong>Pasado de Lista (Vista Mobile)</strong><br>
+        <!-- Cambiá 'captura_asistencia.png' por tu imagen -->
+        <img src="captura_asistencia.png" width="400px" alt="Vista Mobile Asistencia">
+      </td>
+    </tr>
+  </table>
 
-**Infraestructura y DevOps:**
-- **Backend:** Python, Django, MySQL.
-- **Contenerización:** Dockerización completa (Gunicorn + Nginx + MySQL).
-- **Despliegue:** VPS en DigitalOcean con Proxy Inverso y Certificados SSL.
+  **Arquitectura y Lógica de Negocio:**
+  * 🔒 **Aislamiento de Datos:** Implementación Multi-Tenant vía *Mixins* personalizados para separar información por disciplina dentro de la misma base de datos.
+  * 👥 **Dualidad de Roles:** Algoritmo en vistas de Django para registrar tutores financieros y alumnos deportivos simultáneamente sin romper la normalización del modelo relacional.
+  * 🐋 **DevOps e Infraestructura:** Contenerización de servicios (Gunicorn + Base de Datos) con Docker. Enrutamiento de tráfico manejado por Nginx configurado como Proxy Inverso.
 </details>
+
+**Tecnologías utilizadas:**
+- **Backend:** Python, Django
+- **Base de Datos:** MySQL
+- **DevOps:** Docker, DigitalOcean, Nginx (Proxy Inverso), Certbot (SSL)
+- **Frontend:** HTML, CSS, Bootstrap
 
 ***
 
@@ -218,7 +236,7 @@ La interfaz cuenta con un sistema de navegación por categorías, selectores din
 
 ***
 
-<h3></> Unit Bride API </h3>
+<h3></> Unit Bridge API </h3>
 
 <a href="https://unitbridgeapi.pythonanywhere.com/" target="blank"><img src="unit-bridge-api.png" ></a>
 
