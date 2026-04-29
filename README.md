@@ -76,6 +76,42 @@ Mi enfoque principal es el desarrollo web backend, donde aplico mis conocimiento
 
 ⚠️ **IMPORTANTE:** Las imagenes son interactivas, al hacer clic accedés a la app para verla en vivo.
 
+
+<h3></> Club San Rafael - SaaS de Gestión Deportiva</h3>
+
+<details open> <!-- Le pongo 'open' para que este sea el único que aparezca abierto por defecto -->
+<summary><strong>Descripción del proyecto y Vistas del Sistema</strong></summary>
+<br>
+Sistema Multi-Tenant (SaaS) desarrollado para la administración integral de academias deportivas, control de asistencias y facturación dinámica. Desplegado en servidor propio.
+
+<!-- ACÁ ESTÁ LA MAGIA DE LA GRILLA DE IMÁGENES -->
+<table align="center">
+  <tr>
+    <td align="center">
+      <strong>Dashboard Financiero</strong><br>
+      <img src="URL_CAPTURA_PAGOS.png" width="350px;" alt="Motor Financiero"/>
+    </td>
+    <td align="center">
+      <strong>Control de Asistencias (Mobile)</strong><br>
+      <img src="URL_CAPTURA_ASISTENCIA.png" width="350px;" alt="Vista Mobile"/>
+    </td>
+  </tr>
+</table>
+
+**Funcionalidades Clave:**
+- **Aislamiento de Datos (Multi-Tenant):** Arquitectura basada en Mixins para separar la información por disciplina y profesor dentro de una misma base de datos.
+- **Motor Financiero:** Facturación dinámica, control de deudores y validación de pagos con interacción vía WhatsApp.
+- **Dualidad de Roles:** Lógica de negocio adaptada para inscripciones de menores (Tutor/Alumno) y categorías de mayores (Autogestión).
+
+**Infraestructura y DevOps:**
+- **Backend:** Python, Django, MySQL.
+- **Contenerización:** Dockerización completa (Gunicorn + Nginx + MySQL).
+- **Despliegue:** VPS en DigitalOcean con Proxy Inverso y Certificados SSL.
+</details>
+
+***
+
+
 <h3></> ahoraCity</h3>
 
 <a href="https://ahoracity.com/" target="blank"><img src="ahoraCity2.png" ></a>
