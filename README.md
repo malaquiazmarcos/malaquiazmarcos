@@ -83,7 +83,7 @@ Mi enfoque principal es el desarrollo web backend, donde aplico mis conocimiento
 <!-- Cambiá 'portada_san_rafael.png' por el nombre de tu archivo -->
 <p align="center">
   <a href="https://sanrafaelcg.com.ar" target="_blank">
-    <img src="portada_srcg.jpg" width="850px" alt="Portada San Rafael">
+    <img src="portada_srcg.png" width="850px" alt="Portada San Rafael">
   </a>
 </p>
 
