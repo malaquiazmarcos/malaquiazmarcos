@@ -80,51 +80,62 @@ Mi enfoque principal es el desarrollo web backend, donde aplico mis conocimiento
 <h3></> Club San Rafael - SaaS de Gestión Deportiva</h3>
 
 <!-- 1. LA PORTADA (Gancho Visual) -->
-<!-- Cambiá 'portada_san_rafael.png' por el nombre de tu archivo -->
 <p align="center">
   <a href="https://sanrafaelcg.com.ar" target="_blank">
-    <img src="portada_srcg.png" width="850px" alt="Portada San Rafael">
+    <!-- Reemplazá 'portada_san_rafael.png' por el nombre de tu mockup -->
+    <img src="portada_san_rafael.png" width="850px" alt="Portada San Rafael">
   </a>
 </p>
 
-<!-- 2. RESUMEN CORTO (El Elevator Pitch) -->
+<!-- 2. RESUMEN CORTO -->
 <p>
   Plataforma Multi-Tenant en producción para la administración de academias deportivas. 
-  Maneja facturación dinámica, control de asistencias móvil y automatización de procesos para más de 75 usuarios activos. 
+  Maneja facturación dinámica, control de asistencias y automatización de procesos para más de 75 usuarios activos. 
   Desarrollado con Django, Docker y desplegado en un VPS propio en DigitalOcean.
 </p>
 
-<!-- 3. LAS ENTRAÑAS (Toggle oculto para el reclutador técnico) -->
+<!-- 3. LAS ENTRAÑAS (Las 4 capturas letales) -->
 <details>
-  <summary><strong>📸 Ver arquitectura interna y capturas del sistema</strong></summary>
+  <summary><strong>📸 Ver arquitectura interna y lógica de negocio</strong></summary>
   <br>
   
-  <!-- Grilla de 2 columnas para las capturas internas -->
   <table align="center">
+    <!-- FILA 1: El Backend Duro y la Base de Datos -->
     <tr>
       <td align="center">
-        <strong>Motor Financiero (Panel Admin)</strong><br>
-        <!-- Cambiá 'captura_pagos.png' por tu imagen -->
-        <img src="captura_pagos.png" width="400px" alt="Motor Financiero">
+        <strong>Motor de Tesorería</strong><br>
+        <img src="tesoreria.png" width="400px" alt="Panel de Tesorería con deudas">
       </td>
       <td align="center">
-        <strong>Pasado de Lista (Vista Mobile)</strong><br>
-        <!-- Cambiá 'captura_asistencia.png' por tu imagen -->
-        <img src="captura_asistencia.png" width="400px" alt="Vista Mobile Asistencia">
+        <strong>Modelo Relacional (Hermanos/Tutor)</strong><br>
+        <img src="perfil-alumno.png" width="400px" alt="Perfil del Alumno y Relaciones">
+      </td>
+    </tr>
+    <!-- FILA 2: El Producto Real y la Operativa -->
+    <tr>
+      <td align="center">
+        <strong>Vista B2C: Estado de Cuenta del Tutor</strong><br>
+        <img src="estado-cuenta-tutor.png" width="400px" alt="Vista del cliente final">
+      </td>
+      <td align="center">
+        <strong>Gestión Operativa (Listas de Buena Fe)</strong><br>
+        <img src="lista-añumnos.png" width="400px" alt="Listas de Alumnos y Pagos">
       </td>
     </tr>
   </table>
 
-  **Arquitectura y Lógica de Negocio:**
-  * 🔒 **Aislamiento de Datos:** Implementación Multi-Tenant vía *Mixins* personalizados para separar información por disciplina dentro de la misma base de datos.
-  * 👥 **Dualidad de Roles:** Algoritmo en vistas de Django para registrar tutores financieros y alumnos deportivos simultáneamente sin romper la normalización del modelo relacional.
-  * 🐋 **DevOps e Infraestructura:** Contenerización de servicios (Gunicorn + Base de Datos) con Docker. Enrutamiento de tráfico manejado por Nginx configurado como Proxy Inverso.
+  **Arquitectura y Lógica Implementada:**
+  * 💰 **Motor Financiero:** Cálculo dinámico de deudas, consolidación de cuentas corrientes y estados de pago en tiempo real.
+  * 👥 **Dualidad de Roles y Relaciones:** Modelado de base de datos complejo (Foreign Keys) para vincular múltiples alumnos a un único tutor financiero, manteniendo la integridad referencial.
+  * 📱 **UX Orientada al Cliente:** Interfaz dedicada para que los tutores autogestionen sus estados de cuenta sin depender de la administración del club.
+  * 📋 **Gestión Cruzada:** Sincronización entre el estado de pago y la elegibilidad deportiva (Listas de buena fe) en una única vista operativa.
+  * 🐋 **DevOps e Infraestructura:** Contenerización con Docker (Gunicorn + Nginx + MySQL) y Proxy Inverso en DigitalOcean.
 </details>
 
 **Tecnologías utilizadas:**
 - **Backend:** Python, Django
 - **Base de Datos:** MySQL
-- **DevOps:** Docker, DigitalOcean, Nginx (Proxy Inverso), Certbot (SSL)
+- **DevOps:** Docker, DigitalOcean, Nginx, SSL
 - **Frontend:** HTML, CSS, Bootstrap
 
 ***
