@@ -76,6 +76,8 @@ Mi enfoque principal es el desarrollo web backend, donde aplico mis conocimiento
 
 ⚠️ **IMPORTANTE:** Las imagenes son interactivas, al hacer clic accedés a la app para verla en vivo.
 
+***
+
 
 <h3></> Club San Rafael - SaaS de Gestión Deportiva</h3>
 
@@ -92,7 +94,7 @@ Mi enfoque principal es el desarrollo web backend, donde aplico mis conocimiento
 </p>
 
 <details>
-  <summary><strong>📸 Ver arquitectura interna y lógica de negocio</strong></summary>
+  <summary><strong>Ver arquitectura interna y lógica de negocio</strong></summary>
   <br>
   
   <table align="center">
