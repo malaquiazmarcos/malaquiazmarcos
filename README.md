@@ -79,57 +79,52 @@ Mi enfoque principal es el desarrollo web backend, donde aplico mis conocimiento
 
 <h3></> Club San Rafael - SaaS de Gestión Deportiva</h3>
 
-<!-- 1. LA PORTADA (Gancho Visual) -->
 <p align="center">
   <a href="https://sanrafaelcg.com.ar" target="_blank">
-    <!-- Reemplazá 'portada_san_rafael.png' por el nombre de tu mockup -->
     <img src="portada_srcg.png" width="850px" alt="Portada San Rafael">
   </a>
 </p>
 
-<!-- 2. RESUMEN CORTO -->
 <p>
-  Plataforma Multi-Tenant en producción para la administración de academias deportivas. 
+  Plataforma Multi-Tenant en producción para la administración de un club deportivo. 
   Maneja facturación dinámica, control de asistencias y automatización de procesos para más de 75 usuarios activos. 
   Desarrollado con Django, Docker y desplegado en un VPS propio en DigitalOcean.
 </p>
 
-<!-- 3. LAS ENTRAÑAS (Las 4 capturas letales) -->
 <details>
   <summary><strong>📸 Ver arquitectura interna y lógica de negocio</strong></summary>
   <br>
   
   <table align="center">
-    <!-- FILA 1: El Backend Duro y la Base de Datos -->
     <tr>
       <td align="center">
         <strong>Motor de Tesorería</strong><br>
         <img src="tesoreria.png" width="400px" alt="Panel de Tesorería con deudas">
       </td>
       <td align="center">
-        <strong>Modelo Relacional (Hermanos/Tutor)</strong><br>
+        <strong>Perfil del Alumno con Modelo Relacional (Hermanos/Tutor)</strong><br>
         <img src="perfil-alumno.png" width="400px" alt="Perfil del Alumno y Relaciones">
       </td>
     </tr>
-    <!-- FILA 2: El Producto Real y la Operativa -->
     <tr>
       <td align="center">
         <strong>Vista B2C: Estado de Cuenta del Tutor</strong><br>
-        <img src="estado_cuenta_tutor.png" width="400px" alt="Vista del cliente final">
+        <img src="estado_cuenta_turtor.png" width="400px" alt="Vista del cliente final">
       </td>
       <td align="center">
-        <strong>Gestión Operativa (Listas de Buena Fe)</strong><br>
+        <strong>Listado de Alumnos con opción de crear Listas de Buena Fe</strong><br>
         <img src="lista-añumnos.png" width="400px" alt="Listas de Alumnos y Pagos">
       </td>
     </tr>
   </table>
 
   **Arquitectura y Lógica Implementada:**
-  * 💰 **Motor Financiero:** Cálculo dinámico de deudas, consolidación de cuentas corrientes y estados de pago en tiempo real.
-  * 👥 **Dualidad de Roles y Relaciones:** Modelado de base de datos complejo (Foreign Keys) para vincular múltiples alumnos a un único tutor financiero, manteniendo la integridad referencial.
-  * 📱 **UX Orientada al Cliente:** Interfaz dedicada para que los tutores autogestionen sus estados de cuenta sin depender de la administración del club.
-  * 📋 **Gestión Cruzada:** Sincronización entre el estado de pago y la elegibilidad deportiva (Listas de buena fe) en una única vista operativa.
-  * 🐋 **DevOps e Infraestructura:** Contenerización con Docker (Gunicorn + Nginx + MySQL) y Proxy Inverso en DigitalOcean.
+  * **Arquitectura Multi-Tenant:** Implementación de un sistema multidisciplina con aislamiento de datos a nivel backend mediante Mixins personalizados en Django (SportFilterMixin), permitiendo la convivencia de múltiples deportes en una sola instancia.
+  * **Motor Financiero y Facturación:** Desarrollo de un algoritmo de facturación dinámica con actualizaciones programadas, consolidación de cuentas corrientes y un tablero de control visual (semáforo de pagos) en tiempo real.
+  * **Modelado Relacional Complejo:** Diseño de base de datos en MySQL resolviendo la dualidad de roles; vinculando múltiples perfiles de alumnos a un único tutor financiero manteniendo estricta integridad referencial.
+  * **Flujos de Comunicación y UX:** Implementación de enlaces dinámicos (Deep Linking / Click to Chat) hacia WhatsApp para agilizar el contacto directo con la administración, optimizando los procesos de onboarding y la resolución de dudas sobre pagos.
+  * **Gestión Operativa Cruzada:** Sincronización lógica entre el estado financiero del alumno y su elegibilidad deportiva (Listas de buena fe) en una única vista unificada.
+  * **DevOps e Infraestructura:** Contenerización de todo el ecosistema (Gunicorn, Nginx, MySQL) con Docker para un despliegue continuo y seguro en entorno de producción (DigitalOcean), gestionando proxy inverso y certificados SSL.
 </details>
 
 **Tecnologías utilizadas:**
