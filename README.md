@@ -83,7 +83,7 @@ Mi enfoque principal es el desarrollo web backend, donde aplico mis conocimiento
 <p align="center">
   <a href="https://sanrafaelcg.com.ar" target="_blank">
     <!-- Reemplazá 'portada_san_rafael.png' por el nombre de tu mockup -->
-    <img src="portada_san_rafael.png" width="850px" alt="Portada San Rafael">
+    <img src="portada_srcg.png" width="850px" alt="Portada San Rafael">
   </a>
 </p>
 
@@ -115,7 +115,7 @@ Mi enfoque principal es el desarrollo web backend, donde aplico mis conocimiento
     <tr>
       <td align="center">
         <strong>Vista B2C: Estado de Cuenta del Tutor</strong><br>
-        <img src="estado-cuenta-tutor.png" width="400px" alt="Vista del cliente final">
+        <img src="estado_cuenta_tutor.png" width="400px" alt="Vista del cliente final">
       </td>
       <td align="center">
         <strong>Gestión Operativa (Listas de Buena Fe)</strong><br>
