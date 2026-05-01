@@ -287,6 +287,8 @@ Los usuarios pueden crear una cuenta, iniciar sesión y reservar las canchas en 
 - **Control de versiones:** Git y GitHub
 - **Frontend:** HTML, CSS, Bootstrap
 
+***
+
 <details>
   <summary><strong>Ayudante de Cátedra (Informática) - Facultad de Ingeniería, UNaM</strong></summary>
   <br>
