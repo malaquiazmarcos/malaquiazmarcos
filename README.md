@@ -20,59 +20,7 @@ Mi enfoque principal es el desarrollo web backend, donde aplico mis conocimiento
 
 ---
 
-<h1 align="center">Experiencia<a href="">.</a></h1>
-
-<details>
-<summary><strong>Founder & Desarrollador Full Stack | ahoraCity</strong></summary>
-  
-- Desarrollo completo de una plataforma de servicios locales, desacoplando el frontend del backend.
-- Construcción del backend utilizando Python y Django REST Framework (DRF) para crear una API REST.
-- Desarrollo del frontend con React.js, consumiendo la API para una interfaz dinámica.
-- Implementación de Docker para containerizar la aplicación, asegurando la consistencia tanto en desarrollo como en el despliegue en producción.
-- Configuración y despliegue (Deploy) del proyecto en un VPS de DigitalOcean, gestionando el servidor web (Nginx).
-- Gestión de base de datos en MySQL con el ORM de Django.
-- Integración de Django Summernote para la carga de contenido enriquecido, entre otras librerías.
-  
-</details>
-
-<details>
-<summary><strong>Freelance Full Stack Developer | Lesly Group</strong></summary>
-(Sistema de Gestión ERP - Agencia de Turismo)
-
-- Desarrollo e implementación de un sistema de gestión integral a medida para la digitalización de procesos de la empresa.
-- Migración de flujos de trabajo manuales a una plataforma web centralizada con Django (Templates) y MySQL.
-- Desarrollo de algoritmos financieros para el cálculo automático de precios, intereses, descuentos y comisiones de venta.
-- Automatización de documentos: Generación de Vouchers y recibos en PDF con integración de Códigos QR para validación rápida.
-- Implementación de módulos de auditoría y seguridad con roles de usuario específicos (Administrador/Vendedor).
-
-</details>
-
-<details>
-<summary><strong>Desarrollador Fullstack - Arte Sobre Blondas</strong></summary>
-  
-- Desarrollo completo de un ecommerce para una tienda de cotillón, utilizando Python y Flask para el backend. HTML, Bootstrap, y personalizaciones adicionales con CSS para el frontend.
-- Gestión de base de datos en MySQL para el manejo de productos, clientes y pedidos.
-- Integración de la API de Mercado Pago (Checkout Pro) para procesar pagos de manera segura.
-- Implementación de la API de Google Maps para facilitar la ubicación de la tienda y mejorar la experiencia del usuario.
-- Control de versiones mediante Git y GitHub, asegurando un flujo de trabajo organizado.
-- Despliegue del proyecto en AWS, utilizando EC2 para alojar el servidor y RDS para gestionar la base de datos.
-
-</details>
-
-<details>
-<summary><strong>Ayudante de Cátedra (Informática) - Facultad de Ingeniería, UNAM</strong></summary>
-
-- Colaboración en la enseñanza de lógica de programación utilizando Python.
-- Soporte en el uso de hojas de cálculo en LibreOffice, abarcando funciones avanzadas y aplicaciones prácticas.
-- Instrucción sobre conceptos de Internet, incluyendo protocolos HTTP, DNS y otras tecnologías relacionadas con redes.
-- Apoyo a estudiantes en la resolución de problemas y en la comprensión de conceptos técnicos.
-- Evaluación de trabajos y exámenes, proporcionando retroalimentación constructiva.
-
-</details>
-
----
-
-<h1 align="center">Proyectos<a href="">.</a></h1>
+<h1 align="center">Experiencia Profesional y Proyectos Destacados<a href="">.</a></h1>
 
 ⚠️ **IMPORTANTE:** Las imagenes son interactivas, al hacer clic accedés a la app para verla en vivo.
 
@@ -337,7 +285,20 @@ Los usuarios pueden crear una cuenta, iniciar sesión y reservar las canchas en 
 - **APIS:** CheckoutPro (Mercado Pago), Google Maps
 - **Cloud:** AWS (EC2 y RDS)
 - **Control de versiones:** Git y GitHub
-- **Frontend:** HTML, CSS, Bootstrap 
+- **Frontend:** HTML, CSS, Bootstrap
+
+<details>
+  <summary><strong>Ayudante de Cátedra (Informática) - Facultad de Ingeniería, UNaM</strong></summary>
+  <br>
+  
+  <ul>
+    <li><strong>Docencia en Programación:</strong> Colaboración en la enseñanza de lógica de programación utilizando Python.</li>
+    <li><strong>Soporte de Software:</strong> Soporte en el uso de hojas de cálculo en LibreOffice, abarcando funciones avanzadas y aplicaciones prácticas.</li>
+    <li><strong>Conceptos de Redes:</strong> Instrucción sobre conceptos de Internet, incluyendo protocolos HTTP, DNS y otras tecnologías relacionadas con redes.</li>
+    <li><strong>Mentoría Técnica:</strong> Apoyo a estudiantes en la resolución de problemas y en la comprensión de conceptos técnicos.</li>
+    <li><strong>Evaluación:</strong> Evaluación de trabajos y exámenes, proporcionando retroalimentación constructiva.</li>
+  </ul>
+</details>
 
 ---
 
