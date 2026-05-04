@@ -20,7 +20,8 @@ Desarrollador Backend y Full Stack con experiencia en Python y Django, con foco 
 
 <h1 align="center">Experiencia Profesional y Proyectos Destacados<a href="">.</a></h1>
 
-⚠️ **IMPORTANTE:** Las imagenes son interactivas, al hacer clic accedés a la app para verla en vivo.
+> 💡 Las imágenes de proyectos propios son clickeables — haz clic para ver la app en vivo.
+> 🔒 Los proyectos de clientes son sistemas privados, no tienen demo pública.
 
 ***
 
@@ -28,7 +29,7 @@ Desarrollador Backend y Full Stack con experiencia en Python y Django, con foco 
 <h3></> Club San Rafael - SaaS de Gestión Deportiva</h3>
 
 <p align="center">
-  <a href="" target="_blank">
+  <a href="#" target="_blank">
     <img src="portada_srcg.png" width="850px" alt="Portada San Rafael">
   </a>
 </p>
