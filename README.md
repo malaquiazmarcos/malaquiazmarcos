@@ -1,9 +1,7 @@
 <img src="portada.png" style="height: 100% , width:100%">
 <h1 align="center">Sobre mi<a href="">.</a></h1>
 
-<p>Actualmente soy estudiante autodidacta de programación | Técnico en equipos e instalaciones electromecánicas | Estudiante de Ingeniería Civil | Buen manejo de matemáticas y estadísticas.
-
-Mi enfoque principal es el desarrollo web backend, donde aplico mis conocimientos en Python, Flask, Django, bases de datos MySQL y gestión de APIs. También tengo experiencia en el uso de herramientas como Git y GitHub, y estoy familiarizado con HTML, CSS y Bootstrap para el diseño de Interfaces. Además, utilizo AWS, para la implementación y administración de servidores y bases de datos en la nube.</p> 
+<p>Desarrollador Backend y Full Stack con experiencia en Python y Django, con foco en el diseño de APIs REST, modelado de bases de datos y despliegue en producción. He desarrollado soluciones end-to-end para clientes reales: sistemas ERP, plataformas e-commerce y aplicaciones con motores financieros propios. También desarrollo proyectos propios, como ahoracity.com, donde aplico React en el frontend. Busco seguir construyendo productos que resuelvan problemas concretos.</p> 
 
 - [Ver y/o descargar CV](CV-VII-Marcos_Malaquias.pdf.pdf)
 - Email: malaquiazmarcos@gmail.com
