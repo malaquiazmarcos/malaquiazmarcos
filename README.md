@@ -21,6 +21,7 @@ Desarrollador Backend y Full Stack con experiencia en Python y Django, con foco 
 <h1 align="center">Experiencia Profesional y Proyectos Destacados<a href="">.</a></h1>
 
 > 💡 Las imágenes de proyectos propios son clickeables — haz clic para ver la app en vivo.
+
 > 🔒 Los proyectos de clientes son sistemas privados, no tienen demo pública.
 
 ***
