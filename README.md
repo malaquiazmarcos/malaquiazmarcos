@@ -1,7 +1,7 @@
 <img src="portada.png" style="height: 100% , width:100%">
 <h1 align="center">Sobre mi<a href="">.</a></h1>
 
-<p>Desarrollador Backend y Full Stack con experiencia en Python y Django, con foco en el diseño de APIs REST, modelado de bases de datos y despliegue en producción. He desarrollado soluciones end-to-end para clientes reales: sistemas ERP, plataformas e-commerce y aplicaciones con motores financieros propios. También desarrollo proyectos propios, como ahoracity.com, donde aplico React en el frontend. Busco seguir construyendo productos que resuelvan problemas concretos.</p> 
+Desarrollador Backend y Full Stack con experiencia en Python y Django, con foco en el diseño de APIs REST, modelado de bases de datos y despliegue en producción. He desarrollado soluciones end-to-end para clientes reales: sistemas ERP, plataformas e-commerce y aplicaciones con motores financieros propios. También desarrollo proyectos propios, como [ahoracity.com](http://ahoracity.com), donde aplico React en el frontend. Busco seguir construyendo productos que resuelvan problemas concretos.
 
 - [Ver y/o descargar CV](CV-VII-Marcos_Malaquias.pdf.pdf)
 - Email: malaquiazmarcos@gmail.com
@@ -28,7 +28,7 @@
 <h3></> Club San Rafael - SaaS de Gestión Deportiva</h3>
 
 <p align="center">
-  <a href="https://sanrafaelcg.com.ar" target="_blank">
+  <a href="" target="_blank">
     <img src="portada_srcg.png" width="850px" alt="Portada San Rafael">
   </a>
 </p>
